@@ -1,0 +1,3 @@
+﻿  CredStealer.cpp
+C:\Users\Naratena\Documents\books\Projects\CredStealer\CredStealer\CredStealer\CredStealer.cpp(144): warning C4715: 'GetCreds': not all control paths return a value
+  CredStealer.vcxproj -> C:\Users\Naratena\Documents\books\Projects\CredStealer\CredStealer\Debug\CredStealer.exe
